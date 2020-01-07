@@ -1,0 +1,47 @@
+/* Site Colors:
+  ECFFFA - Light Green
+  BDFFE1 - Seafoam Green
+  E7E247 - Gold
+  FFFFFD - Off White
+  A8FCFF - Light Blue
+*/
+
+body {
+  background-color: #FFFFFD;
+}
+
+header {
+  background-color: #A8FCFF;
+  padding-top:20px;
+  padding-bottom: 15px;
+  margin: 0;
+}
+
+h1 {
+  color: #E7E247;
+  text-align: center;
+  font-size: 70px
+}
+
+h1.queen {
+  font-size: 28px;
+}
+
+navigation {
+  text-align: center;
+  text-decoration-color: black;
+}
+
+ul#menu li {
+  display:inline;
+  padding: 1em;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  text-decoration-color: #000000;
+}
+
+a:hover {
+  color: white;
+}
